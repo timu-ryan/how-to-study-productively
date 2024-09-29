@@ -1,4 +1,5 @@
 # how-to-study
+https://timu-ryan.github.io/how-to-study-productively/
 
 # Вторая часть первого проекта от Yandex.Practicum
 
